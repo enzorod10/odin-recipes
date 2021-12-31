@@ -1,1 +1,2 @@
 # odin-recipes
+This project will have recipes to certain food. The links will come from absolute links (links out in the internet) and they will contain an image of each food for style and ease of use. The skills demonstrated here are the ability to use links and images in an HTML file. 
